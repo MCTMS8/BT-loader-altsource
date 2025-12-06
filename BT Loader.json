@@ -3,7 +3,7 @@
   "subtitle": "A source for Bound Downloads",
   "description": "Bound is a discord client that load Kettu bundle (and Ra1n in the future)",
   "iconURL": "https://raw.githubusercontent.com/CloudySn0w/BTLoader/refs/tags/v307.2/assets/logo/icon.png",
-  "website": "https://github.com/CloudySn0w/BTLoader/tree/v307.2",
+  "website": "https://github.com/CloudySn0w/BTLoader/",
   "tintColor": "#a73644",
   "featuredApps": [
     "com.hammerandchisel.discord.app"
