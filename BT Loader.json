@@ -12,11 +12,11 @@
     {
       "name": "Bound",
       "bundleIdentifier": "com.hammerandchisel.discord.app",
-      "marketplaceID": "",
-      "developerName": "CloudySn0w",
-      "subtitle": "",
-      "localizedDescription": "A discord app that load Kettu Bundle and Ra1n in the future.\n",
-      "iconURL": "https://i.imgur.com/GGGY7KF.png",
+      
+    "developerName": "CloudySn0w",
+    "subtitle": "",
+    "localizedDescription": "A discord app that load Kettu Bundle and Ra1n in the future.\n",
+    "iconURL": "https://i.imgur.com/GGGY7KF.png",
       "tintColor": "#047cd4",
       "category": "social",
       "screenshots": [],
