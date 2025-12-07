@@ -1,5 +1,5 @@
-Simple BT Loader AltSource
- 
-https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/MCTMS8/BT-loader-altsource/refs/heads/main/BTLoader.json
+This is a simple BT Loader AltSource
 
-to AltStore or SideStore
+
+Just tap this link to add source to AltStore or SideStore.
+https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/MCTMS8/BT-loader-altsource/refs/heads/main/BTLoader.json
